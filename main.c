@@ -50,8 +50,7 @@ int main()
                 break;
             
             case 3:
-                printf("Not implemented\n");
-                return 0;
+                insertionSort(list, size);
                 break;
             
             case 4:
